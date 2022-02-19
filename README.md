@@ -1,4 +1,3 @@
-| Country | Donator | Comment | 
-|-|-|-|
-| :canada: | James R. | Thank you! |
-| :canada: | Brandon B. | Thank you! |
+# Thank you truckers
+
+Anonymized donation comments from the leaked data of Give Send Go
