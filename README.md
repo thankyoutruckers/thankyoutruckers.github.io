@@ -1,10 +1,4 @@
-# Thank you truckers
-
-Anonymized donation comments from the leaked data of Give Send Go
-
-----
-
-| | | | 
+| Country | Donator | Comment | 
 |-|-|-|
-| 🇺🇸 | James R. | Thank you! |
-| 🇺🇸 | Brandon B. | Thank you! |
+| :canada: | James R. | Thank you! |
+| :canada: | Brandon B. | Thank you! |
